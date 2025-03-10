@@ -2,7 +2,7 @@
 Summary:	Interface to file system quotas on UNIX platforms
 Name:		python3-fsquota
 Version:	0.1.0
-Release:	4
+Release:	5
 License:	GPL v2
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/%{module}/%{module}-%{version}.tar.gz
